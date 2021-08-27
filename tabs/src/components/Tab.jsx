@@ -4,6 +4,6 @@ import { Button } from "@material-ui/core";
 
 export default function Tab() {
   return <div>
-    <Button variant="contained"></Button>
+    <Button variant="contained">Default</Button>
   </div>;
 }
